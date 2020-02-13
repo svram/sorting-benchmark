@@ -4,6 +4,8 @@
 
 TODO
 
-- Parameterize the call
+- Parameterize the call for N (size of array to sort)
+- Multi-threaded implementation to run all functions at the same time
+
 
 Report the bugs, create PR
